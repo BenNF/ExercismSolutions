@@ -1,0 +1,5 @@
+.idea*
+*pycache*
+.pytest*
+*.xml
+*.iml
