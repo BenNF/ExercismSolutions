@@ -1,4 +1,4 @@
 # ExercismSolutions
-My solutions to the challenge problems on ercism.io
+My solutions to the challenge problems on exercism.io
 
-Problems are mostly solved in the way that was most apparent to me or taught me the most.
+Warning to any reader these problems are very much quick solutions and represente incomplete work. There is alos a complete lack of documentation. Reader be warned.
